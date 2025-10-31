@@ -2,6 +2,11 @@
 
 Velocity Plugins I've made for my own servers.
 
+**List:**
+- CommandTimings, 1.20.1 | Schedule commands to run automatically
+- More to soon come.
+
+
 ---
 
 ## CommandTimings
