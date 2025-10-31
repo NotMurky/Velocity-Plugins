@@ -1,0 +1,10 @@
+{
+  "id": "commandtimings",
+  "name": "commandtimings",
+  "version": "1.0-SNAPSHOT",
+  "main": "com.murky.redirect.commandtimings",
+  "authors": [
+    "Aryan"
+  ],
+  "dependencies": []
+}

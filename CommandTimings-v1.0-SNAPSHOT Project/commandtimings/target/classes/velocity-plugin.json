@@ -1,0 +1,10 @@
+{
+  "id": "redirectplugin",
+  "name": "RedirectPlugin",
+  "version": "1.0-SNAPSHOT",
+  "main": "com.murky.redirect.RedirectPlugin",
+  "authors": [
+    "Aryan"
+  ],
+  "dependencies": []
+}
